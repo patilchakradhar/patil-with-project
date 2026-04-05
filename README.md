@@ -1,2 +1,2 @@
 # patil-with-project
-This is my first repository.Author-Chakradhar Patil
+This is my first Git repository.Author-Chakradhar Patil
